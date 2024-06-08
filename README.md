@@ -1,4 +1,4 @@
-## Chess
+## PlayChess
 
 Building a platform where people can
 
